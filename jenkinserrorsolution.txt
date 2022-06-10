@@ -1,0 +1,5 @@
+vim /etc/sudoers
+
+"Add this text after root    ALL=(ALL)       ALL"
+
+jenkins ALL=(ALL) NOPASSWD: ALL
